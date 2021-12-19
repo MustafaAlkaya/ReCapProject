@@ -1,4 +1,4 @@
-﻿using Entites.Concrete;
+﻿using Core.Entites.Concrete;
 using FluentValidation;
 using System;
 using System.Collections.Generic;
